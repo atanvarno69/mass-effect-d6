@@ -47,7 +47,7 @@ when you give your character specializations in that manner, they are treated as
 You can only specialize in skills which you have chosen during character creation and your character may have a maximum
 of two specializations.
 
-Each specialization may start with a maximum of 9 [specialization?] skill points assigned to it.
+Each specialization may start with a maximum of 9 specialization skill points assigned to it.
 
 ### Optional: Advanced Skills
 
@@ -56,10 +56,10 @@ order to be taken.
 
 If there is an "(A)" listed with the skill name on the skill list it's an advanced skill.
 
-## 4 Species Abilities & Derived Stats
+## 4 Species Characteristics & Derived Stats
 
-**Species abilities** are unusual talents and abilities that you get, those are defined by the species you choose to
-play. These may alter the character creation rules presented here, or provide modifiers or other effects in game.
+**Species characteristics** are unusual talents and abilities that you get, those are defined by the species you choose
+to play. These may alter the character creation rules presented here, or provide modifiers or other effects in game.
 
 The **derived stats** are very important and are influenced by your attributes, skills and unique race abilities. Round
 down all multiplications and divisions to an integer value.
