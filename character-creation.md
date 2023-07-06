@@ -125,20 +125,18 @@ prerequisites of any biotic powers you take.
 
 You may take any Power you have the prerequisites for.
 
-## 6 Paragon & Renegade Points
+## 6 Choose Equipment
+
+Spend credits to purchase your starting equipment.
+
+The GM may allow additional equipment after consulting the player.
+
+## 7 Paragon/Renegade Points & Medals
 
 Choose either:
 
 * 4 Paragon points
 * 4 Renegade points
 * 2 Paragon points and 2 Renegade points
-
-## 7 Choose Equipment
-
-Spend credits to purchase your starting equipment.
-
-The GM may allow additional equipment after consulting the player.
-
-## 8 Assign Medals
 
 Every character starts with 3 medals.
