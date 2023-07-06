@@ -1,8 +1,8 @@
 # Turian
 
-Move: 10/12
+**Move:** 10/12
 
-Attribute Dice: 18D
+**Attribute Dice:** 18D
 
 | Attribute  | Min  | Max  |
 | :--------- | :--- | :--- |
@@ -14,25 +14,20 @@ Attribute Dice: 18D
 | Technical  | 2D   | 4D   |
 | Biotic     | 1D   | 2D   |
 
-## Military Upbringing
+## Species Characteristics
 
-A Turian gains +2 to *ranged*, *grenade*, *melee*, *tactics* and *command* skills (maximum of 6).
+**Military Upbringing:** A Turian gains +2 to *ranged*, *grenade*, *melee*, *tactics* and *command* skills (maximum of
+6).
 
-## Detective Souls
+**Detective Souls:** At character creation for every 1 skill point spent in *investigation*, *law enforcement* or
+*streetwise*, gain 2 instead (maximum of +6).
 
-At character creation for every 1 skill point spent in *investigation*, *law enforcement* or *streetwise*, gain 2
-instead (maximum of +6).
+**Fearless:** A Turian gains +4D in *willpower* checks versus any command (natural, Biotic or synthetic) that breaks
+their code of honor.
 
-## Fearless
+**Honor:** Whenver a Turian spends a Paragon or Renegade Point to aid in an ally or client's check the bonus granted is +2D.
 
-A Turian gains +4D in *willpower* checks versus any command (natural, Biotic or synthetic) that breaks their code of
-honor.
-
-## Honor
-
-Whenver a Turian spends a Paragon or Renegade Point to aid in an ally or client's check the bonus granted is +2D.
-
-***
+## Background
 
 **Personality:** Turians are taught to have a strong sense of personal accountability, the "Turian Honor" that other
 races find remarkable

@@ -1,8 +1,8 @@
 # Krogan
 
-Move: 10/12
+**Move:** 10/12
 
-Attribute Dice: 15D
+**Attribute Dice:** 15D
 
 | Attribute  | Min  | Max  |
 | :--------- | :--- | :--- |
@@ -14,45 +14,34 @@ Attribute Dice: 15D
 | Technical  | 1D   | 2D   |
 | Biotic     | 1D   | 2D   |
 
-## War Prone
+## Species Characteristics
 
-At character creation for every 1 skill point spent in any *Strength* skill, gain 2 instead (maximum of +6).
+**War Prone:** At character creation for every 1 skill point spent in any *Strength* skill, gain 2 instead (maximum of
++6).
 
-## POW
+**POW:** Krogan gain +1D to *Search* checks and the combat initiative roll.
 
-Krogan gain +1D to *Search* checks and the combat initiative roll.
+**Bruiser:** Krogan have a +3 when determining Melee and Brawling Damage.
 
-## Bruiser
-
-Krogan have a +3 when determining Melee and Brawling Damage.
-
-## Technological Idiots
-
-At character creation Krogan may only pick half the normal amount of *Technical* skills.
+**Technological Idiot:** At character creation Krogan may only pick half the normal amount of *Technical* skills.
 
 Raising *Technical* skills is twice as expensive for Krogans.
 
-## Genophage
+**Genophage:** Only 1 in 1000 Krogan births are viable. You were a lucky one!
 
-Only 1 in 1000 Krogan births are viable. You were a lucky one!
+**Extraordinary Recuperation:** Krogan don't need a Rest Period, and may make a Natural Healing Roll every 30 minutes
+after taking damage.
 
-## Extraordinary Recuperation
+**Immunity:** Krogan are immune to poison and can’t get stunned from received wounds.
 
-Krogan don't need a Rest Period, and may make a Natural Healing Roll every 30 minutes after taking damage.
+**Frenzy:** Most Krogan tend to be short tempered.
 
-## Immunity
-
-Krogan are immune to poison and can’t get stunned from received wounds.
-
-## Frenzy
-
-Most Krogan tend to be short tempered.
-
-While fighting, a Krogan must succeed a moderate *Willpower* (or *Knowledge*) check or turn frenzy and fight till all
+While fighting, a Krogan must succeed a moderate *willpower* (or *Knowledge*) check or turn frenzy and fight till all
 enemies are defeated. A frenzied Krogan will do anything to defeat all enemies, even risk their life or the lives of
 their companions, to complete the task. If frenzied a Krogan will endanger the lives of anyone to win the fight.
 
-***
+## Background
+
 
 **Personality:** The harsh Krogan homeworld conditioned the Krogan psychology for toughness just as it did the body.
 Krogan have always had a tendency to be selfish, unsympathetic, and blunt. They respect strength and self-reliance and

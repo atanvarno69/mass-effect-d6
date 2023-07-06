@@ -1,8 +1,8 @@
 # Human
 
-Move: 10/12
+**Move:** 10/12
 
-Attribute Dice: 18D
+**Attribute Dice:** 18D
 
 | Attribute  | Min  | Max  |
 | :--------- | :--- | :--- |
@@ -14,12 +14,12 @@ Attribute Dice: 18D
 | Technical  | 2D   | 4D   |
 | Biotic     | 1D   | 2D   |
 
-## Adaptability
+## Species Characteristics
 
-At character creation, choose any 2 basic skills. For every 1 skill point spent in a chosen skill, gain 2 instead
-(maximum of +6).
+**Adaptability:** At character creation, choose any 2 basic skills. For every 1 skill point spent in a chosen skill,
+gain 2 instead (maximum of +6).
 
-***
+## Background
 
 **Personality:** Due to the diversity of Human characters it is very hard to profile Humans with one definite
 personality.

@@ -1,8 +1,8 @@
 # Asari
 
-Move: 10/12
+**Move:** 10/12
 
-Attribute Dice: 18D
+**Attribute Dice:** 18D
 
 | Attribute  | Min  | Max  |
 | :--------- | :--- | :--- |
@@ -14,22 +14,16 @@ Attribute Dice: 18D
 | Technical  | 2D   | 4D   |
 | Biotic     | 1D   | ---    |
 
-## Persuasive
+## Species Characteristics
 
-At character creation for every 1 skill point spent in *persuasion*, gain 2 instead (maximum of 6).
+**Persuasive:** At character creation for every 1 skill point spent in *persuasion*, gain 2 instead (maximum of 6).
 
-## Biotic Aptitude
+**Biotic Aptitude:** Asari do not require a biotic amp to control their biotic talents, but they may use them.
 
-Asari do not require a biotic amp to control their biotic talents, but they may use them.
+**Biotcic Scholar:** At character creation get 2 biotic talents per 1D *Biotic* attribute.
 
-## Biotcic Scholar
-
-At character creation get 2 biotic talents per 1D *Biotic* attribute.
-
-## Joining
-
-Asari have the ability to entwine their nervous system and minds with a partner. While this occurs, the two share
-sensations and thoughts.
+**Joining:** Asari have the ability to entwine their nervous system and minds with a partner. While this occurs, the two
+share sensations and thoughts.
 
 Succeeding a Difficult *willpower* check allows the Asari to relive their joined partner's most recent memories.
 
@@ -45,7 +39,7 @@ With an opposed *willpower* check versus the target's *willpower* the Asari can 
 * Success > 26: complex instruction
 * Success > 36: permanent instruction
 
-***
+## Background
 
 **Personality:** Asari can live to be over 1,000 years and have three stages to their life: Maiden, Matron, and
 Matriarch. In the Maiden stage, Asari seek to go out and learn as much about the galaxy as they can. Military service is
