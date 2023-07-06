@@ -12,11 +12,11 @@ character needs to find a suitable teacher, that might become an adventure’s f
 
 ### Learning New Skills
 
-A new skill costs 5 − governing attribute dice character points (minimum of 1).
+A new skill costs `5 − governing attribute dice` character points (minimum of 1).
 
 ### Improving Skills
 
-1 skill point = (current skill points + 1) character points.
+1 skill point = `current skill points + 1` character points.
 
 ### Learning New Specializations
 
@@ -24,15 +24,15 @@ A new specialization costs 1 character point.
 
 ### Improving Specializations
 
-1 specialization skill point = ((current specialization skill points + 1) ÷ 2) character points (rounded up).
+1 specialization skill point = `(current specialization skill points + 1) ÷ 2` character points (rounded up).
 
 ### Learning New Advanced Skills
 
-A new skill costs (5 − governing attribute dice) × 2 character points (minimum of 2).
+A new skill costs `(5 − governing attribute dice) × 2` character points (minimum of 2).
 
 ### Improving Advanced Skills
 
-1 skill point = (current skill points + 1) × 2 character points.
+1 skill point = `(current skill points + 1) × 2` character points.
 
 ### Learning New Talents
 
@@ -46,7 +46,7 @@ Biotic talents cost the same as skills to improve.
 
 ### Improving Attributes
 
-1 attribute point = current attribute dice × 10 character points.
+1 attribute point = `current attribute dice × 10` character points.
 
 /* This seems like bullshit? */
 
