@@ -16,20 +16,19 @@
 
 ## Species Characteristics
 
-**War Prone:** At character creation for every 1 skill point spent in any *Strength* skill, gain 2 instead (maximum of
+**War Prone:** At character creation for every 1 skill point spent in any *Strength* skill gain 2 instead (maximum of
 +6).
 
-**POW:** Krogan gain +1D to *Search* checks and the combat initiative roll.
+**Technological Idiot:** At character creation Krogan may only pick half the normal amount of *Technical* skills (round
+down).
 
-**Bruiser:** Krogan have a +3 when determining Melee and Brawling Damage.
+Advancing *Technical* skills costs twice as many skill points.
 
-**Technological Idiot:** At character creation Krogan may only pick half the normal amount of *Technical* skills.
+**POW:** Gain +1D to *search* checks and the combat initiative roll.
 
-Raising *Technical* skills is twice as expensive for Krogans.
+**Bruiser:** Krogan gain +3 Melee damage and Brawling damage.
 
-**Genophage:** Only 1 in 1000 Krogan births are viable. You were a lucky one!
-
-**Extraordinary Recuperation:** Krogan don't need a Rest Period, and may make a Natural Healing Roll every 30 minutes
+**Extraordinary Recuperation:** Krogan don't need a rest period, and may make a natural healing roll every 30 minutes
 after taking damage.
 
 **Immunity:** Krogan are immune to poison and can’t get stunned from received wounds.
@@ -40,8 +39,9 @@ While fighting, a Krogan must succeed a moderate *willpower* (or *Knowledge*) ch
 enemies are defeated. A frenzied Krogan will do anything to defeat all enemies, even risk their life or the lives of
 their companions, to complete the task. If frenzied a Krogan will endanger the lives of anyone to win the fight.
 
-## Background
+**Genophage:** Only 1 in 1000 Krogan births are viable. You were a lucky one!
 
+## Background
 
 **Personality:** The harsh Krogan homeworld conditioned the Krogan psychology for toughness just as it did the body.
 Krogan have always had a tendency to be selfish, unsympathetic, and blunt. They respect strength and self-reliance and

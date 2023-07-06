@@ -16,21 +16,30 @@
 
 ## Species Characteristics
 
-**Espionage:** At character creation for every 1 skill point spent in *survival*, *law enforcement*, *investigation*,
-*hide*, *sneak*, *search*, *electronic devices*, or *decryption*, gain 2 instead (maximum of +6).
+**Espionage:** At character creation for every 1 skill point spent in the following skills gain 2 instead (maximum of
++6).
 
-**High Metabolism:** A Salarians may take two actions each turn without incurring the multi action penalty. If more than
+* *decryption*
+* *electronic devices*
+* *hide*
+* *investigation*
+* *law enforcement*
+* *search*
+* *sneak*
+* *survival*
+
+**High Metabolism:** Salarians may take two actions each turn without incurring the multi action penalty. If more than
 two actions are taken in a turn, this characteristic is ignored and the normal multi action penalty is applied.
 
-A Salarians requires one hour of sleep each day. This does not give healing benefits of 8 hours of rest in only one
-hour, only mitigates the need for 8 hours of sleep. Natural healing still works as normal.
+Salarians requires only 1 hour of sleep each day. This does not give healing benefits of 8 hours of rest in 1 hour,
+only mitigates the need for 8 hours of sleep. Natural healing still works as normal.
 
-**Breathe Underwater:** A Salarian can breathe normally underwater and can't drown in water.
+**Breathe Underwater:** Salarians can breathe normally underwater and can't drown in water.
 
-**Expert Swimmer:** A Salarian may choose to reroll any Swim check, but the result of the reroll must be accepted even
-if it is worse. In addition, a Salarian may choose to take 10 on *Swim* checks even when distracted or threatened.
+**Expert Swimmer:** Salarians may choose to reroll any *swim* check, but the result of the reroll must be accepted even
+if it is worse. In addition, Salarians may choose to take 10 on *swim* checks even when distracted or threatened.
 
-**Low-Light Vision:** A Salarian ignores negative modifiers from darkness up to 25 meters.
+**Low-Light Vision:** Ignores negative modifiers from darkness up to 25 meters.
 
 ## Background
 

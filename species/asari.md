@@ -16,11 +16,11 @@
 
 ## Species Characteristics
 
-**Persuasive:** At character creation for every 1 skill point spent in *persuasion*, gain 2 instead (maximum of 6).
+**Biotcic Scholar:** At character creation get 2 biotic talents per 1D *Biotic* attribute.
+
+**Persuasive:** At character creation for every 1 skill point spent in *persuasion* gain 2 instead (maximum of 6).
 
 **Biotic Aptitude:** Asari do not require a biotic amp to control their biotic talents, but they may use them.
-
-**Biotcic Scholar:** At character creation get 2 biotic talents per 1D *Biotic* attribute.
 
 **Joining:** Asari have the ability to entwine their nervous system and minds with a partner. While this occurs, the two
 share sensations and thoughts.

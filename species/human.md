@@ -16,8 +16,8 @@
 
 ## Species Characteristics
 
-**Adaptability:** At character creation, choose any 2 basic skills. For every 1 skill point spent in a chosen skill,
-gain 2 instead (maximum of +6).
+**Adaptability:** At character creation, choose any 2 basic skills. For every 1 skill point spent in a chosen skill gain
+2 instead (maximum of +6).
 
 ## Background
 

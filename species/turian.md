@@ -16,16 +16,20 @@
 
 ## Species Characteristics
 
-**Military Upbringing:** A Turian gains +2 to *ranged*, *grenade*, *melee*, *tactics* and *command* skills (maximum of
-6).
+**Detective Souls:** At character creation for every 1 skill point spent in the following skills gain 2 instead (maximum
+of +6).
 
-**Detective Souls:** At character creation for every 1 skill point spent in *investigation*, *law enforcement* or
-*streetwise*, gain 2 instead (maximum of +6).
+* *investigation*
+* *law enforcement*
+* *streetwise*
 
-**Fearless:** A Turian gains +4D in *willpower* checks versus any command (natural, Biotic or synthetic) that breaks
-their code of honor.
+**Military Upbringing:** Gain +2 to *ranged*, *grenade*, *melee*, *tactics* and *command* checks.
 
-**Honor:** Whenver a Turian spends a Paragon or Renegade Point to aid in an ally or client's check the bonus granted is +2D.
+**Fearless:** Gains +4D in *willpower* checks to resist any command (natural, Biotic or synthetic) that breaks the code
+of honor.
+
+**Honor:** Whenver a Turian spends a Paragon or Renegade Point to aid in an ally or client's check the bonus granted is
++2D.
 
 ## Background
 
