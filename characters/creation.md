@@ -61,8 +61,8 @@ If there is an "(A)" listed with the skill name on the skill list it's an advanc
 **Species characteristics** are unusual talents and abilities that you get, those are defined by the species you choose
 to play. These may alter the character creation rules presented here, or provide modifiers or other effects in game.
 
-The **derived stats** are very important and are influenced by your attributes, skills and unique race abilities. Round
-down all multiplications and divisions to an integer value.
+The **derived stats** are very important and are influenced by your attributes, skills and unique species
+characteristics. Round down all multiplications and divisions to an integer value.
 
 ### Move
 
@@ -72,43 +72,43 @@ dice.
 
 ### Ranged Defense
 
-**Ranged defense** = 3 × Dexterity dice + Dexterity pips + Dodge skill points
+**Ranged defense** = 3 × *Dexterity* dice + *Dexterity* pips + *dodge* skill points
 
 ### Melee Defense
 
-**Melee defense** = 3 × Strength dice + Strength pips + Melee skill points
+**Melee defense** = 3 × *Strength* dice + *Strength* pips + *melee* skill points
 
 ### Brawling Defense
 
-**Brawling defense** = 3 × Strength dice + Strength pips + Brawling skill points
+**Brawling defense** = 3 × *Strength* dice + *Strength* pips + *Brawling* skill points
 
 ### Vehicle Defense
 
-**Vehicle defense** = 3 × Mechanical dice + Mechanical pips + Rover Operation skill points
+**Vehicle defense** = 3 × *Mechanical* dice + *Mechanical* pips + *rover operation* skill points
 
 ### Starship Defense
 
-**Starship defense** = 3 × Mechanical dice + Mechanical pips + Pilot skill points
+**Starship defense** = 3 × *Mechanical* dice + *Mechanical* pips + *pilot* skill points
 
 ### Damage Resistance
 
-**Damage resistance** = Strength dice + armor + bonuses from talents
+**Damage resistance** = *Strength* dice + armor + bonuses from talents
 
 ### Brawling/Melee Damage
 
-**Brawling/melee Damage** = Strength + Lift ÷ 2
+**Brawling/melee Damage** = *Strength* + lift ÷ 2 (round down)
 
 ### Initiative
 
-**Initiative** = 3 × Perception dice + Perception pips + Dexterity dice + Search skill points ÷ 6 + Tactics skill points ÷ 6
+**Initiative** = 3 × *Perception* dice + *Perception* pips + *Dexterity* dice + *search* skill points ÷ 6 + *tactics* skill points ÷ 6
 
 ### Hit Points
 
-**Hit points** = 3 × Strength dice + Strength pips + 20
+**Hit points** = 3 × *Strength* dice + *Strength* pips + 20
 
 ### Credits
 
-**Credits** = (Knowledge dice ÷ 4 + Business skill points ÷ 3 + Gambling skill points ÷ 3 + Value skill points ÷ 3)D × 250
+**Credits** = (*Knowledge* dice ÷ 4 + *business* skill points ÷ 3 + *gambling* skill points ÷ 3 + *value* skill points ÷ 3)D × 250
 
 ## 5 Talents
 

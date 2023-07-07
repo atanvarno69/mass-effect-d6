@@ -2,9 +2,10 @@
 
 Forked from [here](https://masseffectd6.blogspot.com/).
 
-* [The basics](basics.md)
-* [Character creation](character-creation.md)
-* [Character advancement](character-advancement.md)
+* [Game Basics](basics.md)
+* [Characters](characters.md)
+  * [Character creation](character-creation.md)
+  * [Character advancement](character-advancement.md)
 * [Species](species.md)
 * [Combat & Healing](combat-and-healing.md)
 * [Skills](skills.md)
