@@ -11,9 +11,9 @@
 | [*Heavy weapons*](skills/heavy-weapons.md)       | [Ranged combat](skills/ranged-combat-skills.md) |
 | [*Ranged*](skills/ranged.md)                     | [Ranged combat](skills/ranged-combat-skills.md) |
 | [*Sleight of hand*](skills/sleight-of-hand.md)   |                                                 |
-| *Thrown weapons*     | [Ranged combat](skills/ranged-combat-skills.md) |
-| *Vehicle weapons*    | [Ranged combat](skills/ranged-combat-skills.md) |
-| *Zero-G training*    |               |
+| [*Thrown weapons*](skills/thrown-weapons.md)     | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Vehicle weapons*](skills/vehicle-weapons.md)   | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Zero-G training*](skills/zero-g-training.md)   | [Piloting](skills/piloting-skills.md)           |
 
 | Knowledge Skills                                   | Type                                        |
 | :------------------------------------------------- | :------------------------------------------ |
@@ -27,12 +27,12 @@
 | [*Medicine*](skills/medicine.md) (A)               |                                             |
 | [*Planetary systems*](skills/planetary-systems.md) | [Information](skills/information-skills.md) |
 | [*Scholar*](skills/scholar.md)                     | [Information](skills/information-skills.md) |
-| *Streetwise*        |                |
-| *Survival*          |                |
-| *Tactics*           |                |
-| *Value*             |                |
-| *Willpower*         | Mental defense |
-| *Xeno linguistics*  |                |
+| [*Streetwise*](skills/streetwise.md)               |                                             |
+| [*Survival*](skills/survival.md)                   |                                             |
+| [*Tactics*](skills/tactics.md)                     |                                             |
+| [*Value*](skills/value.md)                         |                                             |
+| [*Willpower*](skills/willpower.md)                 |                                             |
+| [*Xeno linguistics*](skills/xeno-linguistics.md)   |                                             |
 
 | Mechanical skill                                           | Type                                            |
 | :--------------------------------------------------------- | :---------------------------------------------- |
@@ -74,7 +74,7 @@
 | [*Omni-blade*](skills/omni-blade.md)             | [Close combat](skills/close-combat-skills.md) |
 | [*Shield*](skills/shield.md)                     |                                               |
 | [*Stamina*](skills/stamina.md)                   |                                               |
-| *Swimming*         |              |
+| [*Swimming*](skills/swimming.md)                 |                                               |
 
 | Technical skill                                                    | Type                                        |
 | :----------------------------------------------------------------- | :------------------------------------------ |
@@ -89,21 +89,8 @@
 | [*Demolitions*](skills/demolitions.md)                             |                                             |
 | [*Electronic devices*](skills/electronic-devices.md)               | [Programming](skills/programming-skills.md) |
 | [*Modding*](skills/modding.md)                                     |                                             |
-|@@@ *Repair*                      | [Repair](skills/repair-skills.md)           |
 | [*Starship mechanics*](skills/starship-mechanics.md)               | [Repair](skills/repair-skills.md)           |
 | [*Starship systems*](skills/starship-systems.md)                   | [Programming](skills/programming-skills.md) |
-| *Synthetics*                  |                   |
-| *VI*                          |                   |
-| *Weapons repair*              | [Repair](skills/repair-skills.md)           |
-
-## Skill Types
-
-### Combat Skills
-
-### Observation Skills
-
-### Piloting Skills
-
-### Repair Skills
-
-### Social Skills
+| [*Synthetics*](skills/synthetics.md)                               | [Programming](skills/programming-skills.md) |
+| [*VI*](skills/vi.md)                                               | [Programming](skills/programming-skills.md) |
+| [*Weapons repair*](skills/weapons-repair.md)                       | [Repair](skills/repair-skills.md)           |

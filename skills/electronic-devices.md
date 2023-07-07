@@ -1,4 +1,4 @@
-## *Electronic Devices* (*Technical*)
+# *Electronic Devices* (*Technical*)
 
 This is a [programming skill](programming-skills.md).
 
