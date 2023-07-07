@@ -9,24 +9,24 @@
 | [*Energy weapons*](skills/energy-weapons.md) (A) | [Ranged combat](skills/ranged-combat-skills.md) |
 | [*Grenades*](skills/grenades.md)                 | [Ranged combat](skills/ranged-combat-skills.md) |
 | [*Heavy weapons*](skills/heavy-weapons.md)       | [Ranged combat](skills/ranged-combat-skills.md) |
-| *Ranged*             |               |               |
-| *Sleight of hand*    |               |               |
+| [*Ranged*](skills/ranged.md)                     | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Sleight of hand*](skills/sleight-of-hand.md)   |                                                 |
 | *Thrown weapons*     | [Ranged combat](skills/ranged-combat-skills.md) |
 | *Vehicle weapons*    | [Ranged combat](skills/ranged-combat-skills.md) |
-| *Zero-G training*    |               |               |
+| *Zero-G training*    |               |
 
-| Knowledge Skills                               | Type                                        |
-| :--------------------------------------------- | :------------------------------------------ |
-| [*Alien species*](skills/alien-species.md)     | [Information](skills/information-skills.md) |
-| [*Bureaucracy*](skills/bureaucracy.md)         | [Information](skills/information-skills.md) |
-| [*Business*](skills/business.md)               | [Information](skills/information-skills.md) |
-| [*Cultures*](skills/cultures.md)               | [Information](skills/information-skills.md) |
-| [*First aid*](skills/first-aid.md)             |                                             |
-| [*Intimidation*](skills/intimidation.md)       | [Interaction](skills/interaction-skills.md) |
-| [*Law enforcement*](skills/law-enforcement.md) | [Information](skills/information-skills.md) |
-| [*Medicine*](skills/medicine.md) (A)           |                                             |
-| *Planetary systems* |                |
-| *Scholar*           |                |
+| Knowledge Skills                                   | Type                                        |
+| :------------------------------------------------- | :------------------------------------------ |
+| [*Alien species*](skills/alien-species.md)         | [Information](skills/information-skills.md) |
+| [*Bureaucracy*](skills/bureaucracy.md)             | [Information](skills/information-skills.md) |
+| [*Business*](skills/business.md)                   | [Information](skills/information-skills.md) |
+| [*Cultures*](skills/cultures.md)                   | [Information](skills/information-skills.md) |
+| [*First aid*](skills/first-aid.md)                 |                                             |
+| [*Intimidation*](skills/intimidation.md)           | [Interaction](skills/interaction-skills.md) |
+| [*Law enforcement*](skills/law-enforcement.md)     | [Information](skills/information-skills.md) |
+| [*Medicine*](skills/medicine.md) (A)               |                                             |
+| [*Planetary systems*](skills/planetary-systems.md) | [Information](skills/information-skills.md) |
+| [*Scholar*](skills/scholar.md)                     | [Information](skills/information-skills.md) |
 | *Streetwise*        |                |
 | *Survival*          |                |
 | *Tactics*           |                |
@@ -39,16 +39,16 @@
 | [*Capital ship gunnery*](skills/capital-ship-gunnery.md)   | [Ranged combat](skills/ranged-combat-skills.md) |
 | [*Capital ship piloting*](skills/capital-ship-piloting.md) | [Piloting](skills/piloting-skills.md)           |
 | [*Capital ship shields*](skills/capital-ship-shields.md)   |                                                 |
-| [*Communications*](skills/communications.md)               |                                                 |
+| [*Communications*](skills/communications.md)               | [Observation](skills/observation-skills.md)     |
 | [*Mech operation*](skills/mech-operation.md)               | [Piloting](skills/piloting-skills.md)           |
 | [*Navigation*](skills/navigation.md)                       |                                                 |
-| *Rover operation*       | Piloting skill |
-| *Rocket pack operation* | Piloting skill |
-| *Sensors*               |                |
-| *SkyCar operation*      | Piloting skill |
-| *Starship gunnery*      | Ranged combat  |
-| *Starship piloting*     | Piloting skill |
-| *Starship shields*      |                |
+| [*Rocket pack operation*](skill/rocket-pak-operation.md)   | [Piloting](skills/piloting-skills.md)           |
+| [*Rover operation*](skills/rover-operation.md)             | [Piloting](skills/piloting-skills.md)           |
+| [*Sensors*](skill/sensors.md)                              | [Observation](skills/observation-skills.md)     |
+| [*SkyCar operation*](skills/skycar-operation.md)           | [Piloting](skills/piloting-skills.md)           |
+| [*Starship gunnery*](skills/starship-gunnery.md)           | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Starship piloting*](skills/starship-piloting.md)         | [Piloting](skills/piloting-skills.md)           |
+| [*Starship shields*](skills/starship-shields.md)           |                                                 |
 
 | Perception skill                           | Type                                        |
 | :----------------------------------------- | :------------------------------------------ |
@@ -60,20 +60,20 @@
 | [*Forgery*](skills/forgery.md)             |                                             |
 | [*Gambling*](skills/gambling.md)           |                                             |
 | [*Hide*](skills/hide.md)                   |                                             |
-| [*Investigation*](skills/investigation.md) |                   |
-| *Persuasion*     | Social skill      |
-| *Search*         | Observation skill |
-| *Sneak*          |                   |
+| [*Investigation*](skills/investigation.md) |                                             |
+| [*Persuasion*](skills/persuasion.md)       | [Interaction](skills/interaction-skills.md) |
+| [*Search*](skills/search.md)               | [Observation](skills/observation-skills.md) |
+| [*Sneak*](skills/sneak.md)                 |                                             |
 
 | Strength skill                                   | Type                                          |
 | :----------------------------------------------- | :-------------------------------------------- |
-| [*Brawling*](skills/brawling.md)                 | [close combat](skills/close-combat-skills.md) |
+| [*Brawling*](skills/brawling.md)                 | [Close combat](skills/close-combat-skills.md) |
 | [*Climbing/jumping*](skills/climbing-jumping.md) |                                               |
 | [*Lift*](skills/lift.md)                         |                                               |
-| [*Melee*](skills/melee.md)                       | [close combat](skills/close-combat-skills.md) |
-| *Omni-blade*       | [close combat](skills/close-combat-skills.md) |
-| *Shield*           |              |
-| *Stamina*          |              |
+| [*Melee*](skills/melee.md)                       | [Close combat](skills/close-combat-skills.md) |
+| [*Omni-blade*](skills/omni-blade.md)             | [Close combat](skills/close-combat-skills.md) |
+| [*Shield*](skills/shield.md)                     |                                               |
+| [*Stamina*](skills/stamina.md)                   |                                               |
 | *Swimming*         |              |
 
 | Technical skill                                                    | Type                                        |
@@ -89,9 +89,9 @@
 | [*Demolitions*](skills/demolitions.md)                             |                                             |
 | [*Electronic devices*](skills/electronic-devices.md)               | [Programming](skills/programming-skills.md) |
 | [*Modding*](skills/modding.md)                                     |                                             |
-| *Repair*                      | [Repair](skills/repair-skills.md)           |
-| *Starship mechanics*          |                   |
-| *Starship systems*            | [Programming](skills/programming-skills.md) |
+|@@@ *Repair*                      | [Repair](skills/repair-skills.md)           |
+| [*Starship mechanics*](skills/starship-mechanics.md)               | [Repair](skills/repair-skills.md)           |
+| [*Starship systems*](skills/starship-systems.md)                   | [Programming](skills/programming-skills.md) |
 | *Synthetics*                  |                   |
 | *VI*                          |                   |
 | *Weapons repair*              | [Repair](skills/repair-skills.md)           |

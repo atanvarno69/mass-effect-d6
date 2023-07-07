@@ -4,6 +4,8 @@
 
 **Specializations:** Type or model of communications unit — comlink, subspace radio
 
+This is an [observation skill](observation-skills.md).
+
 *Communications* represents a character's ability to use radios, comlinks and other communications systems. While
 operating communication devices is normally a Very Easy task, the difficulty numbers are higher when the skill is used
 to descramble enemy codes and find enemy transmission frequencies. Characters may also use communications to send or
