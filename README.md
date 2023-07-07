@@ -1,7 +1,5 @@
 # Mass Effect D6 Roleplay
 
-Forked from [here](https://masseffectd6.blogspot.com/).
-
 * [Game Basics](basics.md)
 * [Characters](characters.md)
   * [Character creation](character-creation.md)
@@ -14,3 +12,10 @@ Forked from [here](https://masseffectd6.blogspot.com/).
 * [Cloning & Cybernetics](cloning-and-cybernetics.md)
 * [Vehicles](vehicles.md)
 * [Space](space.md)
+
+## Credits
+
+Based on:
+
+* D6 Space, WEG 51012, Version 2.0, First Printing June 2004, ISBN 1-932867-01-5
+* [Mass Effect D6](https://masseffectd6.blogspot.com/)

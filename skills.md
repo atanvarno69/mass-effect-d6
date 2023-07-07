@@ -1,31 +1,30 @@
 # Skills
 
-| Dexterity skill      | Type          | Notes         |
-| :------------------- | :------------ | :------------ |
-| [*Acrobatics*](skills/acrobatics.md)         |               | Fall reaction |
-| *Artillery*          | Ranged combat |               |
-| *Archaic guns*       | Ranged combat |               |
-| *Bows*               | Ranged combat |               |
-| *Dodge*              |               |               |
-| *Grenades*           | Ranged combat |               |
-| *Heavy weapons*      | Ranged combat |               |
+| Dexterity Skills                                 | Type                                            |
+| :----------------------------------------------- | :---------------------------------------------- |
+| [*Acrobatics*](skills/acrobatics.md)             |                                                 |
+| [*Artillery*](skills/artillery.md)               | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Bows*](skills/bows.md)                         | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Dodge*](skills/dodge.md)                       |                                                 |
+| [*Energy weapons*](skills/energy-weapons.md) (A) | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Grenades*](skills/grenades.md)                 | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Heavy weapons*](skills/heavy-weapons.md)       | [Ranged combat](skills/ranged-combat-skills.md) |
 | *Ranged*             |               |               |
-| *Energy weapons* (A) | Ranged combat |               |
 | *Sleight of hand*    |               |               |
-| *Thrown weapons*     | Ranged combat |               |
-| *Vehicle weapons*    | Ranged combat |               |
+| *Thrown weapons*     | [Ranged combat](skills/ranged-combat-skills.md) |
+| *Vehicle weapons*    | [Ranged combat](skills/ranged-combat-skills.md) |
 | *Zero-G training*    |               |               |
 
-| Knowledge skill     | Type           |
-| :------------------ | :------------- |
-| *Alien species*     |                |
-| *Bureaucracy*       |                |
-| *Business*          |                |
-| *Cultures*          |                |
-| *First aid*         |                |
-| *Medicine* (A)      |                |
-| *Intimidation*      | Social skill   |
-| *Law enforcement*   |                |
+| Knowledge Skills                               | Type                                        |
+| :--------------------------------------------- | :------------------------------------------ |
+| [*Alien species*](skills/alien-species.md)     | [Information](skills/information-skills.md) |
+| [*Bureaucracy*](skills/bureaucracy.md)         | [Information](skills/information-skills.md) |
+| [*Business*](skills/business.md)               | [Information](skills/information-skills.md) |
+| [*Cultures*](skills/cultures.md)               | [Information](skills/information-skills.md) |
+| [*First aid*](skills/first-aid.md)             |                                             |
+| [*Intimidation*](skills/intimidation.md)       | [Interaction](skills/interaction-skills.md) |
+| [*Law enforcement*](skills/law-enforcement.md) | [Information](skills/information-skills.md) |
+| [*Medicine*](skills/medicine.md) (A)           |                                             |
 | *Planetary systems* |                |
 | *Scholar*           |                |
 | *Streetwise*        |                |
@@ -35,67 +34,67 @@
 | *Willpower*         | Mental defense |
 | *Xeno linguistics*  |                |
 
-| Mechanical skill        | Type           | Notes           |
-| :---------------------- | :------------- | :-------------- |
-| *Capital ship gunnery*  | Ranged combat  |                 |
-| *Capital ship piloting* | Piloting skill |                 |
-| *Capital ship shields*  |                | Combat reaction |
-| *Communications*        |                |                 |
-| *Mech operation*        | Piloting skill |                 |
-| *Navigation*            |                |                 |
-| *Rover operation*       | Piloting skill |                 |
-| *Rocket pack operation* | Piloting skill |                 |
-| *Sensors*               |                |                 |
-| *SkyCar operation*      | Piloting skill |                 |
-| *Starship gunnery*      | Ranged combat  |                 |
-| *Starship piloting*     | Piloting skill |                 |
-| *Starship shields*      |                | Combat reaction |
+| Mechanical skill                                           | Type                                            |
+| :--------------------------------------------------------- | :---------------------------------------------- |
+| [*Capital ship gunnery*](skills/capital-ship-gunnery.md)   | [Ranged combat](skills/ranged-combat-skills.md) |
+| [*Capital ship piloting*](skills/capital-ship-piloting.md) | [Piloting](skills/piloting-skills.md)           |
+| [*Capital ship shields*](skills/capital-ship-shields.md)   |                                                 |
+| [*Communications*](skills/communications.md)               |                                                 |
+| [*Mech operation*](skills/mech-operation.md)               | [Piloting](skills/piloting-skills.md)           |
+| [*Navigation*](skills/navigation.md)                       |                                                 |
+| *Rover operation*       | Piloting skill |
+| *Rocket pack operation* | Piloting skill |
+| *Sensors*               |                |
+| *SkyCar operation*      | Piloting skill |
+| *Starship gunnery*      | Ranged combat  |
+| *Starship piloting*     | Piloting skill |
+| *Starship shields*      |                |
 
-| Perception skill | Type              |
-| :--------------- | :---------------- |
-| *Artist*         |                   |
-| *Bargain*        |                   |
-| *Beast riding*   |                   |
-| *Command*        |                   |
-| *Con*            | Social skill      |
-| *Forgery*        |                   |
-| *Gambling*       |                   |
-| *Hide*           |                   |
-| *Investigation*  |                   |
+| Perception skill                           | Type                                        |
+| :----------------------------------------- | :------------------------------------------ |
+| [*Artist*](skills/artist.md)               |                                             |
+| [*Bargain*](skills/bargain.md)             |                                             |
+| [*Beast riding*](skills/beast-riding.md)   |                                             |
+| [*Command*](skills/command.md)             |                                             |
+| [*Con*](skills/con.md)                     | [Interaction](skills/interaction-skills.md) |
+| [*Forgery*](skills/forgery.md)             |                                             |
+| [*Gambling*](skills/gambling.md)           |                                             |
+| [*Hide*](skills/hide.md)                   |                                             |
+| [*Investigation*](skills/investigation.md) |                   |
 | *Persuasion*     | Social skill      |
 | *Search*         | Observation skill |
 | *Sneak*          |                   |
 
-| Strength skill     | Type         |
-| :----------------- | :----------- |
-| *Brawling*         | Close combat |
-| *Climbing/jumping* |              |
-| *Lift*             |              |
-| *Melee*            | Close combat |
-| *Omni-blade*       | Close combat |
+| Strength skill                                   | Type                                          |
+| :----------------------------------------------- | :-------------------------------------------- |
+| [*Brawling*](skills/brawling.md)                 | [close combat](skills/close-combat-skills.md) |
+| [*Climbing/jumping*](skills/climbing-jumping.md) |                                               |
+| [*Lift*](skills/lift.md)                         |                                               |
+| [*Melee*](skills/melee.md)                       | [close combat](skills/close-combat-skills.md) |
+| *Omni-blade*       | [close combat](skills/close-combat-skills.md) |
 | *Shield*           |              |
 | *Stamina*          |              |
 | *Swimming*         |              |
 
-| Technical skill               | Type              |
-| :---------------------------- | :---------------- |
-| *VI*                          |                   |
-| *AI* (A)                      | Programming skill |
-| *Armor repair*                | Repair skill      |
-| *Biotic amp repair*           | Repair skill      |
-| *Capital ship mechanics*      | Repair skill      |
-| *Capital ship systems*        | Programming skill |
-| *Electronic devices*          | Programming skill |
-| *Cybernetics* (A)             |                   |
-| *Decryption*                  |                   |
-| *Demolitions*                 |                   |
-| *Modding*                     |                   |
-| *Repair*                      | Repair skill      |
+| Technical skill                                                    | Type                                        |
+| :----------------------------------------------------------------- | :------------------------------------------ |
+| [*Advanced weapons repair*](skills/advanced-weapons-repair.md) (A) | [Repair](skills/repair-skills.md)           |
+| [*AI*](skills/ai.md) (A)                                           | [Programming](skills/programming-skills.md) |
+| [*Armor repair*](skills/armor-repair.md)                           | [Repair](skills/repair-skills.md)           |
+| [*Biotic amp repair*](skills/biotic-amp-repair.md)                 | [Repair](skills/repair-skills.md)           |
+| [*Capital ship mechanics*](skills/capital-ship-mechanics.md)       | [Repair](skills/repair-skills.md)           |
+| [*Capital ship systems*](skills/capital-ship-systems.md)           | [Programming](skills/programming-skills.md) |
+| [*Cybernetics*](skills/cybernetics.md) (A)                         | [Programming](skills/programming-skills.md) |
+| [*Decryption*](skills/decryption.md)                               |                                             |
+| [*Demolitions*](skills/demolitions.md)                             |                                             |
+| [*Electronic devices*](skills/electronic-devices.md)               | [Programming](skills/programming-skills.md) |
+| [*Modding*](skills/modding.md)                                     |                                             |
+| *Repair*                      | [Repair](skills/repair-skills.md)           |
 | *Starship mechanics*          |                   |
-| *Starship systems*            | Programming skill |
+| *Starship systems*            | [Programming](skills/programming-skills.md) |
 | *Synthetics*                  |                   |
-| *Weapons repair*              | Repair skill      |
-| *Advanced weapons repair* (A) | Repair skill      |
+| *VI*                          |                   |
+| *Weapons repair*              | [Repair](skills/repair-skills.md)           |
 
 ## Skill Types
 

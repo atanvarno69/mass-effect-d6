@@ -219,8 +219,8 @@ difficulty values.
 | :--------------------------------------------------------------------------------------------- | :------------------ |
 | Overwhelming disadvantage: Something affects the skill use in an almost crippling fashion (repairing a vehicle without any proper tools) | ≥ +16 |
 | Decisive disadvantage: The skill use is very limited by circumstance (trying to find someone in complete darkness) | +11–15 |
-| Signiﬁcant disadvantage: The skill use is aﬀected negatively (tracking someone through drizzling rain) | +6–10 |
-| Slight disadvantage: There is an annoying problem (picking a lock by flashlight) | +1–5 |
+| Signiﬁcant disadvantage: The skill use is aﬀected negatively (tracking someone through drizzling rain) | +6–10       |
+| Slight disadvantage: There is an annoying problem (picking a lock by flashlight)               | +1–5                |
 | Slight advantage: A tool or modification that makes the skill use a little easier (small spikes on shoes for *climbing/jumping*) | -1–5 |
 | Significant advantage: A tool or modiﬁcation that makes the skill use much easier (rope with knots is used for *climbing/jumping*) | -6–10 |
 | Decisive advantage: A tool specifically designed to make the job easier (complete language database used for languages) | -11–15 |
@@ -296,28 +296,3 @@ can't do anything else in that round.
 | Almost Dead      | 0                    | Can't take actions |
 | Dead             | < 0                  | Can't take actions |
 
-## Paragon & Renegade Points
-
-**Paragon** and **Renegade** points are awarded for being brutal or gentle in various situations, or being selfish or
-selfless. If you're playing a morally good person who helps the locals fight off a Geth attack for no reward or personal
-gain, you could be awarded with a Paragon point for your efforts. If your character is greedy and selfish and demands
-payment after saving the locals, you could be given a Renegade point by the GM. Paragon and Renegade points, besides
-showing the nature of the individual, grant a mechanical bonus.
-
-Paragon and Renegade points may be spent for one of:
-
-* +5D to a *con*, *persuasion*, *command* or *intimidation* check.
-* +3 bonus to any roll's result.
-
-Only one Paragon or Renegade point may be spent per roll.
-
-## Medals
-
-**Medals** are awarded for completing challenging tasks or mission objectives. It is up to the GM to figure out how
-many, if any, will be given at the end of an adventure or campaign. Medals are what separates your characters from
-ordinary people making them great heroes or feared villains. Only player characters may have medals.
-
-Medals may be spent for one of:
-
-* +3D to any check
-* healing 10 hit points
