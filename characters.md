@@ -16,7 +16,7 @@ See [Species](species.md).
 Each character has six **attributes**, which measure basic physical and mental abilities that are common to every living
 creature (and some nonliving things), no matter what universe or dimension they exist in.
 
-*Dexterity**: A measure of how physically articulate your character is, including their hand-eye coordination and
+*Dexterity*: A measure of how physically articulate your character is, including their hand-eye coordination and
 agility.
 
 *Strength*: Measure of your character's physical power and ability to resist damage.

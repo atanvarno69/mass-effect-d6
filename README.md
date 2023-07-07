@@ -2,8 +2,8 @@
 
 * [Game Basics](basics.md)
 * [Characters](characters.md)
-  * [Character creation](character-creation.md)
-  * [Character advancement](character-advancement.md)
+  * [Character creation](characters/creation.md)
+  * [Character advancement](characters/advancement.md)
 * [Species](species.md)
 * [Combat & Healing](combat-and-healing.md)
 * [Skills](skills.md)
