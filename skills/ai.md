@@ -2,8 +2,6 @@
 
 **Prerequisite:** *VI*
 
-This is a [programming skill](programming-skills.md).
-
 *AI* is the skill that governs programing and developing of artificial intelligence.
 
 The base difficulty is 10.

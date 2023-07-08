@@ -1,7 +1,5 @@
 # *VI* (*Technical*)
 
-This is a [programming skill](programming-skills.md).
-
 *VI* governs programing and developing of virtual intelligence.
 
 The base difficulty is 10.

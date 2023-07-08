@@ -1,7 +1,5 @@
 # *Synthetics* (*Technical*)
 
-This is a [programming skill](programming-skills.md).
-
 *Synthetics* covers programming and using synthetics like robots and mechs.
 
 Most robots and mechs do not have attributes, though sophisticated ones might. Instead, skills and their specializations
